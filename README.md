@@ -41,6 +41,8 @@
 * ...or include within your HTML
 
   ```html
+    <script src="https://cdn.jsdelivr.net/npm/frappe-charts@0.0.6/dist/frappe-charts.min.iife.js"></script>
+    <!-- or -->
     <script src="https://unpkg.com/frappe-charts@0.0.6/dist/frappe-charts.min.iife.js"></script>
   ```
 
